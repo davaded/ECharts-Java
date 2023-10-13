@@ -12,6 +12,15 @@
 **由于本项目反馈的bug并不多，为了方便每一个开发人员，每次修复bug都会发布一个小版本，并且bug修复只针对当前的大版本进行修复。**
 
 ## 示例
+Maven坐标
+```xml
+<dependency>
+  <groupId>io.github.deveded</groupId>
+  <artifactId>ECharts-java</artifactId>
+  <version>最新版本</version>
+</dependency>
+```
+
 
 [ECharts-Java使用Java快速开发ECharts图表](http://blog.csdn.net/isea533/article/details/43225717)
 
